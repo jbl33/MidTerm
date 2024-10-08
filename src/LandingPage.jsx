@@ -9,7 +9,7 @@ const LandingPage = () => {
   };
  
     return (
-      <div>
+      <div className='center'>
         <h1>You have landed</h1>
         <p>Welcome Potential Hackers</p>
         <button onClick={goToQuizPage}>Go to Quiz Page</button>

@@ -12,7 +12,7 @@ const WelcomePage = () => {
   const handleSubmit   
  = async () => {
     // Simulates sending an email but doesn't actually
-    // Trying to find a free API for sending emails
+    // Trying to find a free API for sending emails but none are working
     alert(`Sent registration details to ${email}`);
   };
 
